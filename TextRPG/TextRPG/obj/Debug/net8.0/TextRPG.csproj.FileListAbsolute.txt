@@ -1,0 +1,14 @@
+C:\Leran\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.exe
+C:\Leran\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.deps.json
+C:\Leran\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.runtimeconfig.json
+C:\Leran\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.dll
+C:\Leran\TextRPG\TextRPG\bin\Debug\net8.0\TextRPG.pdb
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfoInputs.cache
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.AssemblyInfo.cs
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.dll
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\refint\TextRPG.dll
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.pdb
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\TextRPG.genruntimeconfig.cache
+C:\Leran\TextRPG\TextRPG\obj\Debug\net8.0\ref\TextRPG.dll
