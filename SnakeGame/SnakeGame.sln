@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame", "SnakeGame\SnakeGame.csproj", "{E2E692EE-4D8B-400D-B518-4DF3A83B0085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnswerKey", "AnswerKey\AnswerKey.csproj", "{C2AE8F1A-269E-4DA0-980F-3B4342E79DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeGame2", "SnakeGame2\SnakeGame2.csproj", "{E1B03868-D393-4248-8216-3159ED0B56FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E692EE-4D8B-400D-B518-4DF3A83B0085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E692EE-4D8B-400D-B518-4DF3A83B0085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E692EE-4D8B-400D-B518-4DF3A83B0085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E692EE-4D8B-400D-B518-4DF3A83B0085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2AE8F1A-269E-4DA0-980F-3B4342E79DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AE8F1A-269E-4DA0-980F-3B4342E79DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AE8F1A-269E-4DA0-980F-3B4342E79DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AE8F1A-269E-4DA0-980F-3B4342E79DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B03868-D393-4248-8216-3159ED0B56FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B03868-D393-4248-8216-3159ED0B56FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B03868-D393-4248-8216-3159ED0B56FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B03868-D393-4248-8216-3159ED0B56FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

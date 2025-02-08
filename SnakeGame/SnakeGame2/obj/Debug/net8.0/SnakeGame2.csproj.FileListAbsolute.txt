@@ -1,0 +1,14 @@
+C:\Leran\SnakeGame\SnakeGame2\bin\Debug\net8.0\SnakeGame2.exe
+C:\Leran\SnakeGame\SnakeGame2\bin\Debug\net8.0\SnakeGame2.deps.json
+C:\Leran\SnakeGame\SnakeGame2\bin\Debug\net8.0\SnakeGame2.runtimeconfig.json
+C:\Leran\SnakeGame\SnakeGame2\bin\Debug\net8.0\SnakeGame2.dll
+C:\Leran\SnakeGame\SnakeGame2\bin\Debug\net8.0\SnakeGame2.pdb
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\SnakeGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\SnakeGame2.AssemblyInfoInputs.cache
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\SnakeGame2.AssemblyInfo.cs
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\SnakeGame2.csproj.CoreCompileInputs.cache
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\SnakeGame2.dll
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\refint\SnakeGame2.dll
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\SnakeGame2.pdb
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\SnakeGame2.genruntimeconfig.cache
+C:\Leran\SnakeGame\SnakeGame2\obj\Debug\net8.0\ref\SnakeGame2.dll

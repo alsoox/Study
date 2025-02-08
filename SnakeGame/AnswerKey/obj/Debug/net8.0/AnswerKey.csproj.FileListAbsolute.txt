@@ -1,0 +1,14 @@
+C:\Leran\SnakeGame\AnswerKey\bin\Debug\net8.0\AnswerKey.exe
+C:\Leran\SnakeGame\AnswerKey\bin\Debug\net8.0\AnswerKey.deps.json
+C:\Leran\SnakeGame\AnswerKey\bin\Debug\net8.0\AnswerKey.runtimeconfig.json
+C:\Leran\SnakeGame\AnswerKey\bin\Debug\net8.0\AnswerKey.dll
+C:\Leran\SnakeGame\AnswerKey\bin\Debug\net8.0\AnswerKey.pdb
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\AnswerKey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\AnswerKey.AssemblyInfoInputs.cache
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\AnswerKey.AssemblyInfo.cs
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\AnswerKey.csproj.CoreCompileInputs.cache
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\AnswerKey.dll
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\refint\AnswerKey.dll
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\AnswerKey.pdb
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\AnswerKey.genruntimeconfig.cache
+C:\Leran\SnakeGame\AnswerKey\obj\Debug\net8.0\ref\AnswerKey.dll
