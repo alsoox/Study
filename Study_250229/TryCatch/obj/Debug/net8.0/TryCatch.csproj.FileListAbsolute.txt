@@ -1,0 +1,15 @@
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfoInputs.cache
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\TryCatch.AssemblyInfo.cs
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\TryCatch.sourcelink.json
+C:\Leran\Study\Study_250229\TryCatch\bin\Debug\net8.0\TryCatch.exe
+C:\Leran\Study\Study_250229\TryCatch\bin\Debug\net8.0\TryCatch.deps.json
+C:\Leran\Study\Study_250229\TryCatch\bin\Debug\net8.0\TryCatch.runtimeconfig.json
+C:\Leran\Study\Study_250229\TryCatch\bin\Debug\net8.0\TryCatch.dll
+C:\Leran\Study\Study_250229\TryCatch\bin\Debug\net8.0\TryCatch.pdb
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\TryCatch.dll
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\refint\TryCatch.dll
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\TryCatch.pdb
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\TryCatch.genruntimeconfig.cache
+C:\Leran\Study\Study_250229\TryCatch\obj\Debug\net8.0\ref\TryCatch.dll

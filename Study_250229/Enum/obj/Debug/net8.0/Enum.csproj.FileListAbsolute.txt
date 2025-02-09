@@ -1,0 +1,15 @@
+C:\Leran\Study\Study_250229\Enum\bin\Debug\net8.0\Enum.exe
+C:\Leran\Study\Study_250229\Enum\bin\Debug\net8.0\Enum.deps.json
+C:\Leran\Study\Study_250229\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+C:\Leran\Study\Study_250229\Enum\bin\Debug\net8.0\Enum.dll
+C:\Leran\Study\Study_250229\Enum\bin\Debug\net8.0\Enum.pdb
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\Enum.dll
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\refint\Enum.dll
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\Enum.pdb
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+C:\Leran\Study\Study_250229\Enum\obj\Debug\net8.0\ref\Enum.dll

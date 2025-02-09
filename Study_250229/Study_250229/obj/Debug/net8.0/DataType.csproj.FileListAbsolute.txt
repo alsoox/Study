@@ -1,0 +1,15 @@
+C:\Leran\Study\Study_250229\Study_250229\bin\Debug\net8.0\DataType.exe
+C:\Leran\Study\Study_250229\Study_250229\bin\Debug\net8.0\DataType.deps.json
+C:\Leran\Study\Study_250229\Study_250229\bin\Debug\net8.0\DataType.runtimeconfig.json
+C:\Leran\Study\Study_250229\Study_250229\bin\Debug\net8.0\DataType.dll
+C:\Leran\Study\Study_250229\Study_250229\bin\Debug\net8.0\DataType.pdb
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\DataType.AssemblyInfoInputs.cache
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\DataType.AssemblyInfo.cs
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\DataType.csproj.CoreCompileInputs.cache
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\DataType.sourcelink.json
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\DataType.dll
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\refint\DataType.dll
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\DataType.pdb
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\DataType.genruntimeconfig.cache
+C:\Leran\Study\Study_250229\Study_250229\obj\Debug\net8.0\ref\DataType.dll

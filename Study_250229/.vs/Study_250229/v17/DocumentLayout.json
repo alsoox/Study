@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Leran\\Study\\Study_250229\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE33121-2DA5-4FD9-84FB-46F17F61D504}|Study_250229\\DataType.csproj|c:\\leran\\study\\study_250229\\study_250229\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE33121-2DA5-4FD9-84FB-46F17F61D504}|Study_250229\\DataType.csproj|solutionrelative:study_250229\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE33121-2DA5-4FD9-84FB-46F17F61D504}|Study_250229\\DataType.csproj|c:\\leran\\study\\study_250229\\study_250229\\datatype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABE33121-2DA5-4FD9-84FB-46F17F61D504}|Study_250229\\DataType.csproj|solutionrelative:study_250229\\datatype.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E017E82-01F7-420D-ADC9-9A299BFB46E6}|TryCatch\\TryCatch.csproj|c:\\leran\\study\\study_250229\\trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E017E82-01F7-420D-ADC9-9A299BFB46E6}|TryCatch\\TryCatch.csproj|solutionrelative:trycatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7684A-4913-40C5-B0EE-B50B87663DFB}|Enum\\Enum.csproj|c:\\leran\\study\\study_250229\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD7684A-4913-40C5-B0EE-B50B87663DFB}|Enum\\Enum.csproj|solutionrelative:enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB32ECEB-0DAA-463C-8539-FF7E9DABE230}|Yeild\\Yeild.csproj|c:\\leran\\study\\study_250229\\yeild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB32ECEB-0DAA-463C-8539-FF7E9DABE230}|Yeild\\Yeild.csproj|solutionrelative:yeild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B534A2D3-9553-47CE-B523-D34042B0AFDB}|Arrangement\\Arrangement.csproj|c:\\leran\\study\\study_250229\\arrangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B534A2D3-9553-47CE-B523-D34042B0AFDB}|Arrangement\\Arrangement.csproj|solutionrelative:arrangement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70156F8-28A7-498D-A4A5-993C6FB6A652}|String\\String.csproj|c:\\leran\\study\\study_250229\\string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70156F8-28A7-498D-A4A5-993C6FB6A652}|String\\String.csproj|solutionrelative:string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70156F8-28A7-498D-A4A5-993C6FB6A652}|String\\String.csproj|c:\\leran\\study\\study_250229\\string\\string.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A70156F8-28A7-498D-A4A5-993C6FB6A652}|String\\String.csproj|solutionrelative:string\\string.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\Study\\Study_250229\\TryCatch\\Program.cs",
+              "RelativeDocumentMoniker": "TryCatch\\Program.cs",
+              "ToolTip": "C:\\Leran\\Study\\Study_250229\\TryCatch\\Program.cs",
+              "RelativeToolTip": "TryCatch\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:50:58.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\Study\\Study_250229\\Yeild\\Program.cs",
+              "RelativeDocumentMoniker": "Yeild\\Program.cs",
+              "ToolTip": "C:\\Leran\\Study\\Study_250229\\Yeild\\Program.cs",
+              "RelativeToolTip": "Yeild\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:22:03.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\Study\\Study_250229\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "Enum\\Program.cs",
+              "ToolTip": "C:\\Leran\\Study\\Study_250229\\Enum\\Program.cs",
+              "RelativeToolTip": "Enum\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T05:02:48.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataType",
+              "DocumentMoniker": "C:\\Leran\\Study\\Study_250229\\Study_250229\\DataType.csproj",
+              "RelativeDocumentMoniker": "Study_250229\\DataType.csproj",
+              "ToolTip": "C:\\Leran\\Study\\Study_250229\\Study_250229\\DataType.csproj",
+              "RelativeToolTip": "Study_250229\\DataType.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T04:50:27.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "String",
+              "DocumentMoniker": "C:\\Leran\\Study\\Study_250229\\String\\String.csproj",
+              "RelativeDocumentMoniker": "String\\String.csproj",
+              "ToolTip": "C:\\Leran\\Study\\Study_250229\\String\\String.csproj",
+              "RelativeToolTip": "String\\String.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T04:50:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\Study\\Study_250229\\String\\Program.cs",
+              "RelativeDocumentMoniker": "String\\Program.cs",
+              "ToolTip": "C:\\Leran\\Study\\Study_250229\\String\\Program.cs",
+              "RelativeToolTip": "String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:45:24.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\Study\\Study_250229\\Arrangement\\Program.cs",
+              "RelativeDocumentMoniker": "Arrangement\\Program.cs",
+              "ToolTip": "C:\\Leran\\Study\\Study_250229\\Arrangement\\Program.cs",
+              "RelativeToolTip": "Arrangement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:35:57.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\Study\\Study_250229\\Study_250229\\Program.cs",
+              "RelativeDocumentMoniker": "Study_250229\\Program.cs",
+              "ToolTip": "C:\\Leran\\Study\\Study_250229\\Study_250229\\Program.cs",
+              "RelativeToolTip": "Study_250229\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T04:24:28.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Leran\Study\Study_250229\Yeild\bin\Debug\net8.0\Yeild.exe
+C:\Leran\Study\Study_250229\Yeild\bin\Debug\net8.0\Yeild.deps.json
+C:\Leran\Study\Study_250229\Yeild\bin\Debug\net8.0\Yeild.runtimeconfig.json
+C:\Leran\Study\Study_250229\Yeild\bin\Debug\net8.0\Yeild.dll
+C:\Leran\Study\Study_250229\Yeild\bin\Debug\net8.0\Yeild.pdb
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\Yeild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\Yeild.AssemblyInfoInputs.cache
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\Yeild.AssemblyInfo.cs
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\Yeild.csproj.CoreCompileInputs.cache
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\Yeild.sourcelink.json
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\Yeild.dll
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\refint\Yeild.dll
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\Yeild.pdb
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\Yeild.genruntimeconfig.cache
+C:\Leran\Study\Study_250229\Yeild\obj\Debug\net8.0\ref\Yeild.dll

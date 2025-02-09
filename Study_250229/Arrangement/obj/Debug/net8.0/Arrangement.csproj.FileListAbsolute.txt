@@ -1,0 +1,15 @@
+C:\Leran\Study\Study_250229\Arrangement\bin\Debug\net8.0\Arrangement.exe
+C:\Leran\Study\Study_250229\Arrangement\bin\Debug\net8.0\Arrangement.deps.json
+C:\Leran\Study\Study_250229\Arrangement\bin\Debug\net8.0\Arrangement.runtimeconfig.json
+C:\Leran\Study\Study_250229\Arrangement\bin\Debug\net8.0\Arrangement.dll
+C:\Leran\Study\Study_250229\Arrangement\bin\Debug\net8.0\Arrangement.pdb
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\Arrangement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\Arrangement.AssemblyInfoInputs.cache
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\Arrangement.AssemblyInfo.cs
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\Arrangement.csproj.CoreCompileInputs.cache
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\Arrangement.sourcelink.json
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\Arrangement.dll
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\refint\Arrangement.dll
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\Arrangement.pdb
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\Arrangement.genruntimeconfig.cache
+C:\Leran\Study\Study_250229\Arrangement\obj\Debug\net8.0\ref\Arrangement.dll
