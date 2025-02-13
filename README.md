@@ -8,3 +8,6 @@
 팀원 - 송민경  
 팀원 - 이유림  
 팀원 - 김태겸  
+
+
+![image](/READEME/introduce.png)  
