@@ -9,4 +9,4 @@
 팀원 - 이유림  
 팀원 - 김태겸  
 
-![Alt text](/READEME/introduce.png)  
+![Alt text](/README/introduce.png)  
