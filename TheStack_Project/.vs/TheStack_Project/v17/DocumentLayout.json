@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Leran\\Study\\TheStack_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63B6DB8-E5B5-5DB7-FAC6-ED21EFD3C0C2}|Assembly-CSharp.csproj|c:\\leran\\study\\thestack_project\\assets\\scripts\\thestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63B6DB8-E5B5-5DB7-FAC6-ED21EFD3C0C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheStack.cs",
+              "DocumentMoniker": "C:\\Leran\\Study\\TheStack_Project\\Assets\\Scripts\\TheStack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TheStack.cs",
+              "ToolTip": "C:\\Leran\\Study\\TheStack_Project\\Assets\\Scripts\\TheStack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TheStack.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:53:08.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
